@@ -34,5 +34,5 @@ This repository contains the backend code for the Share2Teach project, a web-bas
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/share2teach-backend.git
+   git clone https://github.com/EbenFourie/share2teach-backend.git
    cd share2teach-backend
